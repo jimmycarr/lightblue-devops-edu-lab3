@@ -1,11 +1,11 @@
 {
     "APIs": {
         "catalog": {
-            "host": "lightblue-catalog-jamescarr.mybluemix.net",
+            "host": "lightblue-catalog-jamescarr.eu-gb.mybluemix.net",
             "base_path": "/micro"
         },
         "customer": {
-            "host": "lightblue-customer-jamescarr.mybluemix.net",
+            "host": "lightblue-customer-jamescarr.eu-gb.mybluemix.net",
             "base_path": "/micro"
         }
     }
